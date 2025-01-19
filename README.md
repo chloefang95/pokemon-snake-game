@@ -22,12 +22,12 @@ A fun and nostalgic implementation of the classic Snake game with a Pokémon-ins
 ## 🚀 Getting Started
 
 ### Play Online
-Visit [GitHub Pages URL] to play the game directly in your browser!
+Visit [https://chloefang95.github.io/pokemon-snake-game/](https://chloefang95.github.io/pokemon-snake-game/) to play the game directly in your browser!
 
 ### Play Locally
 1. Clone this repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/chloefang95/pokemon-snake-game.git
 ```
 2. Open `index.html` in your web browser
 3. Start playing!
